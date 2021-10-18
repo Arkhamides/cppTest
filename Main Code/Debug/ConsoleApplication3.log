@@ -1,0 +1,5 @@
+﻿  ConsoleApplication3.cpp
+C:\Users\PC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(197): warning C4715: 'Curl_ExchangeRates_BTC_USD_Coinbase_buy': not all control paths return a value
+C:\Users\PC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(164): warning C4715: 'Curl_ExchangeRates_BTC_USD_bitstamp': not all control paths return a value
+C:\Users\PC\source\repos\ConsoleApplication3\ConsoleApplication3\ConsoleApplication3.cpp(233): warning C4715: 'Curl_ExchangeRates_BTC_USD_Coinbase_Sell': not all control paths return a value
+  ConsoleApplication3.vcxproj -> C:\Users\PC\source\repos\ConsoleApplication3\Debug\ConsoleApplication3.exe
