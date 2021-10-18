@@ -1,4 +1,4 @@
 # cppTest
 Arbitrage opportunity analytical tool.
 
-![alt text](https://github.com/Arkhamides/cppTest/blob/main/Screenshots/Request_a_quote.PNG.jpg?raw=true)
+![Request_A_Quote](https://github.com/Arkhamides/cppTest/blob/main/Screenshots/Request_a_quote.PNG?raw=true)
